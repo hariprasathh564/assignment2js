@@ -1,0 +1,26 @@
+.sword{
+   background-image: url("./assets/images/pngimg.com\ -\ sword_PNG5517.png");
+    background-size: cover;
+    padding: 50px;
+}
+.horse{
+    background-image: url("./assets/images/63dfe49d72df38001c5175bc.jpg");
+     background-size: cover;
+padding: 50px;
+}
+.roar{
+    background-image: url("./assets/images/Q9InuKGJSTqDOGwtUdAfRg.webp");
+     background-size: cover;
+padding: 50px;
+}
+.laugh{
+    background-image: url("./assets/images/stock-vector-scared-emoticon-holding-head-emoji-smiley-vector-illustration-530644381.jpg");
+    background-size: cover;
+  padding: 50px;  
+}
+body{
+    background-color: rgb(24, 206, 206);
+    margin: 50px 60px;
+    padding:10px;
+    text-align: center;
+}
