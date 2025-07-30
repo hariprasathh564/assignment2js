@@ -27,12 +27,12 @@ for(var i=0; i<noOfButtons; i++){
     break;
 
     case "a":
-    var audioElement2 = new Audio("./assets/songs/song-1.mp3");
+    var audioElement2 = new Audio(" ./assets/songs/lion-sms-49434.mp3");
         audioElement2.play();
     break;
 
     case "d":
-    var audioElement3 = new Audio("./assets/songs/lion-sms-49434.mp3");
+    var audioElement3 = new Audio("./assets/songs/song-1.mp3");
         audioElement3.play();
     break;
 
@@ -44,3 +44,4 @@ for(var i=0; i<noOfButtons; i++){
         console.log("plz press the correct key.")
        }
     }
+   
